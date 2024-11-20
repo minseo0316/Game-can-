@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e05df71f315df4faf6d06ed540eccf, type: 3}
+  m_Name: potion
+  m_EditorClassIdentifier: 
+  itemName: "\uD790\uD3EC\uC158"
+  description: "\uCCB4\uB82530\uD68C\uBCF5"
+  icon: {fileID: 21300000, guid: ddf8838d0a06d8d4c9dec9e3bed69260, type: 3}
+  maxStackSize: 99
+  equipmentType: 0
+  healBonus: 30
+  price: 0
+  PowerBonus: 0
+  GuardBonus: 0
+  healthBonus: 0
+  MagicBonus: 0
+  AttackSpeedBonus: 0
+  CrticalBonus: 0

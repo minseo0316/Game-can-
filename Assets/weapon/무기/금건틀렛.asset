@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e05df71f315df4faf6d06ed540eccf, type: 3}
+  m_Name: "\uAE08\uAC74\uD2C0\uB81B"
+  m_EditorClassIdentifier: 
+  itemName: "\uAE08 \uAC74\uD2C0\uB9BF"
+  description: "\uBE44\uC2F8\uBCF4\uC778\uB2E4."
+  icon: {fileID: -8236973547151189717, guid: 7078568917a74c645bcc440648ed7cfc, type: 3}
+  maxStackSize: 99
+  equipmentType: 1
+  healBonus: 0
+  price: 0
+  PowerBonus: 3
+  GuardBonus: 0
+  healthBonus: 0
+  MagicBonus: 0
+  AttackSpeedBonus: 6
+  CrticalBonus: 0

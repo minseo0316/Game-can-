@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e05df71f315df4faf6d06ed540eccf, type: 3}
+  m_Name: woodBow
+  m_EditorClassIdentifier: 
+  itemName: 
+  description: 
+  icon: {fileID: 3622341097289859008, guid: 3a9fafd3f4c151e40b37e6568aa55178, type: 3}
+  maxStackSize: 99
+  equipmentType: 0
+  healBonus: 0
+  price: 0
+  PowerBonus: 0
+  GuardBonus: 0
+  healthBonus: 0
+  MagicBonus: 0
+  AttackSpeedBonus: 0
+  CrticalBonus: 0
