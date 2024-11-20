@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 909b61c2875da29478997fc4ad9e14da
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Sword_Idle_side_right_Frame_0
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 25
+    spriteID: 558e99237aeaf5c42ab2edc50dacae4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Sword_Idle_side_right_Frame_1
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 37
+      width: 15
+      height: 25
+    spriteID: d99525d30fdcf6e4c975082b97f50287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 37}
+  - name: Sword_Idle_side_right_Frame_2
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 70
+      width: 15
+      height: 25
+    spriteID: 777eae3066c6dd840b07a1abd730b1ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 70}
+  - name: Sword_Idle_side_right_Frame_3
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 15
+      height: 25
+    spriteID: 0510904e5f69f6d41b1b1bc2f5f492a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: Sword_Idle_side_right_Frame_4
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 37
+      width: 15
+      height: 25
+    spriteID: f31ae242a8bc6ae4b88f1a97b96d7709
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 37}
+  - name: Sword_Idle_side_right_Frame_5
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 70
+      width: 15
+      height: 25
+    spriteID: 3c0fa2968e738174bbecf4e2ee2b64e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 70}
+  - name: Sword_Idle_side_right_Frame_6
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 15
+      height: 25
+    spriteID: bf21a2ca8ebe0b24083e9804f1640079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: Sword_Idle_side_right_Frame_7
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 37
+      width: 15
+      height: 25
+    spriteID: 4faf8f679c162bf4ca0cb6387f9c153e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 37}
+  - name: Sword_Idle_side_right_Frame_8
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 70
+      width: 15
+      height: 25
+    spriteID: c3a207b8842f3514cae16f922f9d03f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 70}
+  - name: Sword_Idle_side_right_Frame_9
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 4
+      width: 15
+      height: 25
+    spriteID: 66b7292cffcb22147908515e046500f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 4}
+  - name: Sword_Idle_side_right_Frame_10
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 37
+      width: 15
+      height: 25
+    spriteID: b88e99abf0746f4459bd1038062ac83f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 37}
+  - name: Sword_Idle_side_right_Frame_11
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.68}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 70
+      width: 15
+      height: 25
+    spriteID: ebc7458a0a5da0f4cac30c1ef563d8e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 70}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1329825799
+    name: Sword_Idle_side_right
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Sword_Idle_side_right_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 558e99237aeaf5c42ab2edc50dacae4d
+    - name: Sword_Idle_side_right_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: d99525d30fdcf6e4c975082b97f50287
+    - name: Sword_Idle_side_right_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 777eae3066c6dd840b07a1abd730b1ad
+    - name: Sword_Idle_side_right_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 0510904e5f69f6d41b1b1bc2f5f492a9
+    - name: Sword_Idle_side_right_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: f31ae242a8bc6ae4b88f1a97b96d7709
+    - name: Sword_Idle_side_right_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 3c0fa2968e738174bbecf4e2ee2b64e0
+    - name: Sword_Idle_side_right_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: bf21a2ca8ebe0b24083e9804f1640079
+    - name: Sword_Idle_side_right_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 4faf8f679c162bf4ca0cb6387f9c153e
+    - name: Sword_Idle_side_right_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: c3a207b8842f3514cae16f922f9d03f8
+    - name: Sword_Idle_side_right_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: 66b7292cffcb22147908515e046500f2
+    - name: Sword_Idle_side_right_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: b88e99abf0746f4459bd1038062ac83f
+    - name: Sword_Idle_side_right_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 24
+        y: 17
+        width: 15
+        height: 25
+      spriteId: ebc7458a0a5da0f4cac30c1ef563d8e5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
