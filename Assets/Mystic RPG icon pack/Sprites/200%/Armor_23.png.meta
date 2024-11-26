@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armor_23_0: 95384528874342021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

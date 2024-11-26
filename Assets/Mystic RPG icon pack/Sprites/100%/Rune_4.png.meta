@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rune_4_0: 2117566704470977641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

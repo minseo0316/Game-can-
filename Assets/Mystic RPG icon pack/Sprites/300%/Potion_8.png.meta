@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Potion_8_0: -941344945649288662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

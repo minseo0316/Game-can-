@@ -250,7 +250,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_player_left_walk_0: 754172998124735289
+      spr_player_left_walk_1: 6528380659137479196
+      spr_player_left_walk_2: 804193550772630214
+      spr_player_left_walk_3: -803606413609320645
+      spr_player_left_walk_4: 8182429709929595219
+      spr_player_left_walk_5: 3261463083222455394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Quiver_0_0: 663537548931098604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
